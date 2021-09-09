@@ -1,1 +1,1 @@
-
+Unter dem Begriff Analytisches Datenprodukt wird ein Objekt bestehend aus Daten und Algorithmen verstanden, das basierend auf einer analytischen Fragestellung und mit dem betriebswirtschaftlichen Ziel der Wertsteigerung entwickelt und betrieben wird. Ein solches Objekt unterliegt einem Lebenszyklus und verfügt über Eigenschaften, die die Nutzungsbedingungen und die Verwendung, die Qualität, die Aktualität, das Eigentumsverhältnis und die Nutzungsrechte in Form von Zugriffsrechten beschreiben.
